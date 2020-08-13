@@ -1,0 +1,26 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "Todo list application with nodejs, express and mongodb",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Keerthana Thoddoon Ravi",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "mongoose": "^4.13.19"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neu-mis-info6150-fall-2019/assignment-8-thoddoonravik.git"
+  },
+  "bugs": {
+    "url": "https://github.com/neu-mis-info6150-fall-2019/assignment-8-thoddoonravik/issues"
+  },
+  "homepage": "https://github.com/neu-mis-info6150-fall-2019/assignment-8-thoddoonravik#readme"
+}
